@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- Settings Preferences-->
+    <string name="country_selection">Country selection</string>
+    <string name="category_selection">Category selection</string>
+
+    <string name="favourites_screen_message">Currently no favourites set . Tap on settings to select your favourites</string>
+
+</resources>
